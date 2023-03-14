@@ -6,6 +6,8 @@ The code base for method "learning to route based on graph auralization" in the 
 
 ## NCA_GE
 Original repository: https://github.com/MatheusMRFM/NCA-GE.
-    added "random geometry" for training.
-    note: to run this successfully, use tensorflow==2.10.0
+
+added "random geometry" for training.
+
+note: to run this successfully, use tensorflow==2.10.0
     
