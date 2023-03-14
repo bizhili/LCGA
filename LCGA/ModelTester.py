@@ -201,8 +201,8 @@ if __name__ == '__main__':
             HyperParams.momentum: 0.0,
             HyperParams.reload_weight: True,
             HyperParams.graph_node_num: 30,
-            HyperParams.train_graph_num: 10,
-            HyperParams.test_graph_num: 2,
+            HyperParams.train_graph_num: 100,
+            HyperParams.test_graph_num: 6,
             HyperParams.train_graph_refresh_portion: 0.5,
             HyperParams.train_graph_refresh_interval: 5,
             HyperParams.graph_type: "RG", #"RG", "BA", "WS", "ER"
