@@ -33,6 +33,7 @@ Use to generate training and test data-set
 
 ## Running
 Before running, please modify the parameter you want in the tail of file "ModelTester.py"
+
 ```bash
 cd LCGA
 python ModelTester.py
