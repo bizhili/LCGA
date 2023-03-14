@@ -2,7 +2,7 @@
 The code base for method "learning to route based on graph auralization" in the paper "Echolocation in networks: learning to route based on the sound of nodes"
 
 ## LCGA
-    LCGA method
+LCGA method
 
 ## NCA_GE
 Original repository: https://github.com/MatheusMRFM/NCA-GE.
