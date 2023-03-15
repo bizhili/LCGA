@@ -94,7 +94,7 @@ def create_set(rootDir, indexesOfset=[1, 2], graphSize=50, radius=0.4, centralit
 
 #using example
 if __name__=="__main__":
-    create_set("datas/degree/test", [i for i in range(2)], 30, radius=0.4, centrality="Betweenness", graphType="BA")
+    create_set("datas/degree/test", [i for i in range(2)], 30, radius=0.4, centralityName="Betweenness", graphType="BA")
 
 
 
