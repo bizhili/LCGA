@@ -36,7 +36,6 @@ class LRCModel(nn.Module):
             nn.Linear(256, 128),
             nn.ReLU(),
             nn.Linear(128, 1),
-            nn.ReLU(),
         ).to(device=device, dtype=dtype)
         self.conv_pool_stack.apply(init_weights)
     #direct model method
