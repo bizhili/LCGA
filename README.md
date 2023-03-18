@@ -7,7 +7,8 @@ LRCGA method
 ## NCA_GE
 Original repository: https://github.com/MatheusMRFM/NCA-GE.
 
-added "random geometry" for training.
+add "random geometry" for training.
 
 note: to run this successfully, use tensorflow==1.12.0
+
     
