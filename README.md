@@ -1,4 +1,4 @@
-# Echolocation in networks: learning to route based on the sound of nodes
+# Learning a routing centrality based on graph auralization
 The code base for method " learning a routing centrality based on graph auralization"(LRCGA) in the paper "Echolocation in networks: learning to route based on the sound of nodes"
 
 ## LRCGA
